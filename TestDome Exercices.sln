@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inherite Entities", "Inherite Entities\Inherite Entities.csproj", "{4CC49F2A-282E-4CE2-A635-A02AF9175811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{C74379BB-41E5-49E5-8635-E4A86E3C3F19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4CC49F2A-282E-4CE2-A635-A02AF9175811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC49F2A-282E-4CE2-A635-A02AF9175811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC49F2A-282E-4CE2-A635-A02AF9175811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74379BB-41E5-49E5-8635-E4A86E3C3F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74379BB-41E5-49E5-8635-E4A86E3C3F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74379BB-41E5-49E5-8635-E4A86E3C3F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74379BB-41E5-49E5-8635-E4A86E3C3F19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
